@@ -48,15 +48,6 @@ Event Management/
 - Node.js 14+
 - MongoDB 4.4+
 
-### Database Setup
-
-1. Install MongoDB Community Edition:
-   - Download from: https://www.mongodb.com/try/download/community
-   - Follow the installation guide for Windows
-   - Start MongoDB service: `net start MongoDB`
-
-2. MongoDB will automatically create the database and collection when you first add an event.
-
 ### Backend Setup
 
 1. Navigate to the backend directory:
@@ -146,14 +137,3 @@ The frontend will start on `http://localhost:3000`
 - Flexible layout that adapts to different screen sizes
 - Touch-friendly buttons and inputs
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is open source and available under the MIT License.
